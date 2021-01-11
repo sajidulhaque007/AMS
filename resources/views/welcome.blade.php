@@ -100,7 +100,7 @@
                                 Catch Attendance
                      </div>
                       <div class="links">                  
-                             <a href="{{ url('/dashboard') }}">Dashboard</a>
+                             <a href="{{ url('/dashboard') }}">Dashboard1</a>
                              <a href="{{ url('/dashboard2') }}">Dashboard2</a>                   
                      </div>                   
                     </div>
